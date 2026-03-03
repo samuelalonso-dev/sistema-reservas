@@ -1,6 +1,6 @@
 # Sistema de Reservas
 
-Proyecto desarrollado en PHP para la gestión de reservas.
+Proyecto académico desarrollado como práctica de gestión de recursos y reservas.
 
 ## Tecnologías utilizadas
 - PHP
